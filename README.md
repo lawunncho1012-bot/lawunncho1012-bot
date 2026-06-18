@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm La Wunn Cho 👋
 
-<!--
-**lawunncho1012-bot/lawunncho1012-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a student currently studying Information Technology (IT) at Golden Mission Education Center, Magway, Myanmar.
 
-Here are some ideas to get you started:
+I am passionate about technology and programming, and I am continuously learning and improving my skills in software development and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Java
+- PHP
+
+## Skills
+- Web Development Fundamentals
+- Responsive Web Design
+- Basic Programming Concepts
+- Problem Solving
+- Version Control with Git & GitHub
+
+## Goals
+- Improve my programming skills
+- Build real-world projects
+- Learn modern web development technologies
+- Contribute to open-source projects
+- Become a professional software developer
+
+## Interests
+- Programming
+- Web Development
+- Technology
+- Learning New Skills
+- Software Engineering
+
+## Contact
+- GitHub: @LaWunnCho
+
+> "Every expert was once a beginner. Keep learning and keep building."
