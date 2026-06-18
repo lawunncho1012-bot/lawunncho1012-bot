@@ -33,7 +33,31 @@ I am passionate about technology and programming, and I am continuously learning
 - Technology
 - Learning New Skills
 - Software Engineering
-- 🥋 Karate (Shotokan Karate)
+
+## GitHub Stats
+
+![La Wunn Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaWunnCho&show_icons=true)
+
+## Projects
+
+- 🥋 Shotokan Karate Website
+- 🌐 Web Development Projects
+- 💻 Java Programming Projects
+
+## Tools & Technologies
+
+- VS Code
+- Git
+- GitHub
+- Figma
+- MySQL
+
+## Learning Journey
+
+Currently exploring:
+- Frontend Development
+- Backend Development
+- Software Engineering
 
 ## Contact
 - GitHub: @LaWunnCho
