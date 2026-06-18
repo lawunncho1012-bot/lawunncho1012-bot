@@ -32,6 +32,7 @@ I am passionate about technology and programming, and I am continuously learning
 - Technology
 - Learning New Skills
 - Software Engineering
+- 🥋 Karate (Shotokan Karate)
 
 ## Contact
 - GitHub: @LaWunnCho
