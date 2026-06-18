@@ -38,7 +38,7 @@ I am passionate about technology and programming, and I am continuously learning
 
 ## 📊 GitHub Stats
 
-![La Wunn Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaWunnCho&show_icons=true)
+![La Wunn Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawunncho1012-bot&show_icons=true)
 
 ## 🚀 Projects
 
