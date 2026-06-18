@@ -5,7 +5,7 @@ I am a student currently studying Information Technology (IT) at Golden Mission 
 
 I am passionate about technology and programming, and I am continuously learning and improving my skills in software development and web technologies.
 
-## Currently Learning
+🌱## Currently Learning
 - HTML
 - CSS
 - JavaScript
@@ -18,6 +18,7 @@ I am passionate about technology and programming, and I am continuously learning
 - Basic Programming Concepts
 - Problem Solving
 - Version Control with Git & GitHub
+- N4 Passer
 
 ## Goals
 - Improve my programming skills
